@@ -1,6 +1,6 @@
 # Undone: When Time Becomes a Mirror
 
-![Alma standing between multiple timelines, represented through rotoscope animation](https://github.com/user-attachments/assets/placeholder-undone-header.jpg)
+![image](https://github.com/user-attachments/assets/7fa448c6-8021-49dc-9a02-931fd4b2dab3)
 
 > "You think time is linear? It's a pattern that folds back on itself. Everything already exists. It's all happening at once. Death doesn't exist. It's a construct. A human construct. Love doesn't end. Energy just gets pulled away to something else."  
 > — Alma Winograd-Diaz
