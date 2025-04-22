@@ -2,7 +2,7 @@
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
-![Banner Image - A spiral of watercolor handprints, each slightly different but forming a pattern](https://github.com/user-attachments/assets/placeholder-banner.jpg)
+![image](https://github.com/user-attachments/assets/5ede05a4-3a13-4e56-9794-e8b75511d863)
 
 ## What You've Always Known
 
