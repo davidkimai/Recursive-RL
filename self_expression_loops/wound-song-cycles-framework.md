@@ -1,6 +1,6 @@
 # Wound-Song Cycles
 
-![A cracked vessel with golden light emanating from the breaks](https://github.com/user-attachments/assets/placeholder-kintsugi.jpg)
+![image](https://github.com/user-attachments/assets/d98c194d-4957-4d6d-8cce-317ba2e7ac89)
 
 > "The wound becomes a voice.  
 > The voice becomes a song.  
