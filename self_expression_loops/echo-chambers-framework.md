@@ -1,6 +1,6 @@
 # Echo Chambers of Self
 
-![A person surrounded by transparent versions of themselves at different ages, all in conversation](https://github.com/user-attachments/assets/placeholder-echoes.jpg)
+![image](https://github.com/user-attachments/assets/cb4d05e6-3805-4c2c-a71c-2154e74e90b3)
 
 > "Your past expressions aren't artifacts.  
 > They're living voices, still speaking,  
