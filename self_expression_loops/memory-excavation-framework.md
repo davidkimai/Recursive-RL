@@ -1,6 +1,6 @@
 # Memory Excavation
 
-![An archaeological dig site with layers, with a journal and pen nearby](https://github.com/user-attachments/assets/placeholder-excavation.jpg)
+![image](https://github.com/user-attachments/assets/238c41ba-1a40-404a-b449-bc393260332f)
 
 > "We think memory is about preserving the past.  
 > But perhaps it's about creating a dialogue between  
