@@ -1,6 +1,6 @@
 # Case Study: Undone — The Architecture of Healing
 
-![Stylized image inspired by the rotoscope animation of Undone](https://github.com/user-attachments/assets/placeholder-undone.jpg)
+![image](https://github.com/user-attachments/assets/c43aecc7-92df-484c-9528-d995b6ceca1e)
 
 > "Time isn't linear. It's a pattern that folds back on itself."  
 > — Alma Winograd-Diaz, *Undone*
