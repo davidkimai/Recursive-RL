@@ -1,6 +1,6 @@
 # Self-Expression Loops
 
-![A person sitting with journal, light spiraling upward](https://github.com/user-attachments/assets/placeholder-loops.jpg)
+![image](https://github.com/user-attachments/assets/14b7e798-755a-42c0-b76b-950532c8d137)
 
 > "The most honest moment isn't the first time you say something.  
 > It's when you return to it, again and again, until it becomes your truth."  
