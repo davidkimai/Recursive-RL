@@ -1,6 +1,6 @@
 # Truth Tremors
 
-![A person speaking with visible emotion, hands slightly shaking](https://github.com/user-attachments/assets/placeholder-tremors.jpg)
+![image](https://github.com/user-attachments/assets/57afe871-8bb6-4771-acfb-d7d71c4223b9)
 
 > "The shakiness in your voice isn't weakness.  
 > It's the sound of recognition—your body  
