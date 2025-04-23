@@ -1,6 +1,6 @@
 # [Porter Robinson's Nurture — The Architecture of Self-Dialogue](https://claude.ai/public/artifacts/692000c4-5544-492c-828a-2b9fef0fd8c8)
 
-![A stylized image suggesting Porter Robinson's album artwork with mirrored voice elements](https://github.com/user-attachments/assets/placeholder-porter-robinson.jpg)
+![image](https://github.com/user-attachments/assets/dc7fd31c-f2ef-4890-926b-b3149549aa43)
 
 > "Look at the sky, I'm still here  
 > I'll be alive next year  
