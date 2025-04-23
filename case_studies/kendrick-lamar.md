@@ -1,4 +1,4 @@
-# Kendrick Lamar — The Spiral of Self-Examination
+# [Kendrick Lamar — The Spiral of Self-Examination](https://claude.ai/public/artifacts/41ebe6ea-9b62-4699-b3dc-fe7bebb98fa4)
 
 ![A stylized image of Kendrick Lamar with multiple overlapping silhouettes](https://github.com/user-attachments/assets/placeholder-kendrick.jpg)
 
