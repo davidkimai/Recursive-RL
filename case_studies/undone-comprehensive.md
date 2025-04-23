@@ -1,6 +1,6 @@
 # [Undone: When Time Becomes a Mirror](https://claude.ai/public/artifacts/d83f92aa-4f56-4092-952e-25aaa0b42650)
 
-![image](https://github.com/user-attachments/assets/7fa448c6-8021-49dc-9a02-931fd4b2dab3)
+![undone](https://github.com/user-attachments/assets/f686fc70-c28f-471d-9986-009f6dca0626)
 
 > "You think time is linear? It's a pattern that folds back on itself. Everything already exists. It's all happening at once. Death doesn't exist. It's a construct. A human construct. Love doesn't end. Energy just gets pulled away to something else."  
 > — Alma Winograd-Diaz
