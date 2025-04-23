@@ -1,6 +1,6 @@
 # Inside Out — The Architecture of Emotional Memory
 
-![A stylized image of five emotions looking at memory orbs](https://github.com/user-attachments/assets/placeholder-inside-out.jpg)
+![image](https://github.com/user-attachments/assets/7c49d645-12d0-4ccc-ae35-4f53fe3dd6aa)
 
 > "Do you ever look at someone and wonder, 'What is going on inside their head?'"  
 > — Inside Out (2015)
