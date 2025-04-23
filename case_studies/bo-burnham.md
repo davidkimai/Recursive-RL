@@ -1,6 +1,6 @@
 # [Bo Burnham's Inside — The Architecture of Witness](https://claude.ai/public/artifacts/0d71157d-91a6-4189-8fff-c4632a9ca85c)
 
-![A stylized image suggesting the confined creative space of Inside](https://github.com/user-attachments/assets/placeholder-inside.jpg)
+![image](https://github.com/user-attachments/assets/676e5c49-d252-4b1a-a834-921f000af4cb)
 
 > "I don't think that I can handle this right now."  
 > — Bo Burnham, *Inside*
