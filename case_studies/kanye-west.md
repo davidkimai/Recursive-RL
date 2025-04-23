@@ -1,4 +1,4 @@
-# Kanye West — The Architecture of Reinvention
+# [Kanye West — The Architecture of Reinvention](https://claude.ai/public/artifacts/3ee13474-1dc0-4855-a846-2da6dc2d80ca)
 
 ![A stylized image suggesting Kanye West's evolving album aesthetics across different eras](https://github.com/user-attachments/assets/placeholder-kanye.jpg)
 
