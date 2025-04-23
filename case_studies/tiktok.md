@@ -1,4 +1,4 @@
-# Memes — TikTok Echo Trends: The Architecture of Collective Memory
+# TikTok Trends & Memes: The Architecture of Collective Memory
 
 ![image](https://github.com/user-attachments/assets/f000c55c-6770-4a90-b485-0f07a94bc16e)
 
