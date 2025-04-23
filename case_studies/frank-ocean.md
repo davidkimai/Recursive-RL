@@ -1,6 +1,6 @@
 # Frank Ocean — The Architecture of Emotional Memory
 
-![image](https://github.com/user-attachments/assets/e36b87dc-8828-421a-8729-7754dbd21aa5)
+![image](https://github.com/user-attachments/assets/56d9cebf-9666-4a6d-9895-924eb43d1d28)
 
 > "I'm not trying to make it sound like nobody's word is final except for mine. I'm just trying to be as honest with myself as possible."  
 > — Frank Ocean
