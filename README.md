@@ -1,4 +1,4 @@
-# The Structure Behind Self-Expression
+# [**The Structure Behind Self-Expression**](https://claude.ai/public/artifacts/5c83ed55-41fb-4b88-a10a-1524c05363a8)
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
