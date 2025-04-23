@@ -1,4 +1,4 @@
-# Fred Again.. — The Architecture of Remembered Feeling
+# [Fred Again.. — The Architecture of Remembered Feeling](https://claude.ai/public/artifacts/9b83f2f1-eea0-4aad-9c9d-6deb3f7adec0)
 
 ![A collage of moments from Fred Again's Instagram and music videos](https://github.com/user-attachments/assets/placeholder-fred-again.jpg)
 
