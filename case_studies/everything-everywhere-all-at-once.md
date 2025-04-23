@@ -1,6 +1,6 @@
 # [Everything Everywhere All At Once — The Architecture of Identity Loops](https://claude.ai/public/artifacts/a9e7d0cf-ddde-491c-b97e-ac0be6e6de37)
 
-![image](https://github.com/user-attachments/assets/b08bcbb4-e10d-4623-9d9e-8139ecfca8aa)
+![eeaao](https://github.com/user-attachments/assets/b121d089-fd6f-450a-9343-79797995266d)
 
 > "Every rejection, every disappointment has led you here to this moment.  
 > Don't let anything distract you from it."  
