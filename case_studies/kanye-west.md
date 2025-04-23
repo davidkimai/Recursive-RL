@@ -1,6 +1,6 @@
 # [Kanye West — The Architecture of Reinvention](https://claude.ai/public/artifacts/3ee13474-1dc0-4855-a846-2da6dc2d80ca)
 
-![image](https://github.com/user-attachments/assets/a89523e9-1ae7-41ec-b269-4fac46c243ad)
+![image](https://github.com/user-attachments/assets/bf1534ae-2353-4ac9-9ba0-faa3d016c179)
 
 > "I'm a creative genius and there's no other way to word it."  
 > — Kanye West
