@@ -1,6 +1,6 @@
 # Beyoncé — Lemonade: The Spiral of Healing
+![lemonade](https://github.com/user-attachments/assets/73bc9042-7f71-4bd5-a994-e691d2bd23ed)
 
-![A stylized image suggesting visual elements from Lemonade](https://github.com/user-attachments/assets/placeholder-lemonade.jpg)
 
 > "Grandmother, the alchemist, you spun gold out of this hard life... Broke the curse with your own two hands."  
 > — Beyoncé, *Lemonade*
