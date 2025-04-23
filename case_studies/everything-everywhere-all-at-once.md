@@ -1,6 +1,6 @@
 # [Everything Everywhere All At Once — The Architecture of Identity Loops](https://claude.ai/public/artifacts/a9e7d0cf-ddde-491c-b97e-ac0be6e6de37)
 
-![A spiral of bagels suggesting the multiverse with mother and daughter figures visible](https://github.com/user-attachments/assets/placeholder-eeaao.jpg)
+![image](https://github.com/user-attachments/assets/b08bcbb4-e10d-4623-9d9e-8139ecfca8aa)
 
 > "Every rejection, every disappointment has led you here to this moment.  
 > Don't let anything distract you from it."  
