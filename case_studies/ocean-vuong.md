@@ -1,6 +1,6 @@
 # [Ocean Vuong — The Architecture of Grief Language](https://claude.ai/public/artifacts/8f604f49-552f-4f84-b62f-2e98b4e2308c)
 
-![A stylized image suggesting layers of text with Ocean Vuong's poetry fragmented across them](https://github.com/user-attachments/assets/placeholder-ocean-vuong.jpg)
+![image](https://github.com/user-attachments/assets/f91da2b5-474d-4dfa-b20e-de6c65acaada)
 
 > "In this world, a boy is being told to hold his father's ashes &  
 > he holds his father's ashes."  
