@@ -1,6 +1,6 @@
 # Frank Ocean — The Architecture of Emotional Memory
 
-![A stylized image suggesting Frank Ocean's layered visual and sonic aesthetics](https://github.com/user-attachments/assets/placeholder-frank-ocean.jpg)
+![image](https://github.com/user-attachments/assets/e36b87dc-8828-421a-8729-7754dbd21aa5)
 
 > "I'm not trying to make it sound like nobody's word is final except for mine. I'm just trying to be as honest with myself as possible."  
 > — Frank Ocean
