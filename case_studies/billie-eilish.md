@@ -1,6 +1,6 @@
 # [Billie Eilish — The Architecture of Inner Worlds](https://claude.ai/public/artifacts/31eafbd9-b09e-4ed4-b1f3-f2bf61484998)
 
-![A stylized image of Billie Eilish with shadows and light](https://github.com/user-attachments/assets/placeholder-billie.jpg)
+![image](https://github.com/user-attachments/assets/0526ffef-1a42-47d4-b656-ab2e61612c30)
 
 > "I've always done whatever I want and always been exactly who I am."  
 > — Billie Eilish
