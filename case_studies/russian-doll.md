@@ -1,6 +1,7 @@
 # [Russian Doll — The Architecture of Return](https://claude.ai/public/artifacts/8fff8f78-7fd9-4aa6-b1ac-c7a63a4106d8)
 
-![A stylized image suggesting the loop structure of Russian Doll](https://github.com/user-attachments/assets/placeholder-russian-doll.jpg)
+![image](https://github.com/user-attachments/assets/03c12aa0-356b-4e77-a93e-6d888355f229)
+
 
 > "The universe is trying to fuck with me, and I refuse to engage."  
 > — Nadia Vulvokov, *Russian Doll*
