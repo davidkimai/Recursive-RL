@@ -6,7 +6,7 @@
 > Don't let anything distract you from it."  
 > — Waymond Wang
 
-## The Beautiful Rupture
+# The Beautiful Rupture
 
 The first time you watch *Everything Everywhere All At Once*, you might be dazzled by its multiverse concept, martial arts sequences, and absurdist humor. But beneath the visual spectacle lies something profoundly familiar—a perfect visualization of how identity forms between mothers and daughters, not through linear inheritance but through complex loops of rejection, return, and recognition across generations.
 
