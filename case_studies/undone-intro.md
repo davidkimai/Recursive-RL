@@ -1,4 +1,4 @@
-# Case Study: Undone — The Architecture of Healing
+# [Undone — The Architecture of Healing](https://claude.ai/public/artifacts/f22367a0-4287-496f-8476-8011fd5044ec)
 
 ![image](https://github.com/user-attachments/assets/c43aecc7-92df-484c-9528-d995b6ceca1e)
 
