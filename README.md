@@ -1,5 +1,5 @@
 # [**The Structure Behind Self-Expression**](https://claude.ai/public/artifacts/5c83ed55-41fb-4b88-a10a-1524c05363a8)
-
+## “Every one of us has the structure for potential.” - David Kim
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
 ![image](https://github.com/user-attachments/assets/5ede05a4-3a13-4e56-9794-e8b75511d863)
