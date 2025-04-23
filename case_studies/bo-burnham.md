@@ -1,4 +1,4 @@
-# [Bo Burnham's Inside — The Architecture of Witness(https://claude.ai/public/artifacts/0d71157d-91a6-4189-8fff-c4632a9ca85c)
+# [Bo Burnham's Inside — The Architecture of Witness](https://claude.ai/public/artifacts/0d71157d-91a6-4189-8fff-c4632a9ca85c)
 
 ![A stylized image suggesting the confined creative space of Inside](https://github.com/user-attachments/assets/placeholder-inside.jpg)
 
