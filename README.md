@@ -1,4 +1,3 @@
-# Recursion
 # The Structure Behind Self-Expression
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
