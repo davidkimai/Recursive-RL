@@ -1,4 +1,4 @@
-# Billie Eilish — The Architecture of Inner Worlds
+# [Billie Eilish — The Architecture of Inner Worlds](https://claude.ai/public/artifacts/31eafbd9-b09e-4ed4-b1f3-f2bf61484998)
 
 ![A stylized image of Billie Eilish with shadows and light](https://github.com/user-attachments/assets/placeholder-billie.jpg)
 
