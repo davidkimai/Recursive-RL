@@ -2,10 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/04360e84-8482-4162-abb8-6a56fe974a9e)
 
-
 > "The time in between, the moments of silence in the animation, that's what's important."  
 > — Hayao Miyazaki
-
+>
 ## The Remembered World
 
 The first time you watch a Hayao Miyazaki film, you might be struck by its visual beauty, mythic storytelling, or environmental themes. But beneath these surface elements lies something more profoundly moving—a perfect embodiment of how memory works, not as storage of information but as living relationship with place, and how silence functions not as absence but as the necessary space where meaning unfolds.
