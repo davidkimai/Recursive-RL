@@ -1,4 +1,4 @@
-# Hayao Miyazaki Films — The Architecture of Memory and Silence
+# [Hayao Miyazaki Films — The Architecture of Memory and Silence](https://claude.ai/public/artifacts/801c1ddb-b5e9-4f3c-8452-9d530d981763)
 
 ![A stylized image suggesting Miyazaki's environmental landscapes with moments of silence](https://github.com/user-attachments/assets/placeholder-miyazaki.jpg)
 
