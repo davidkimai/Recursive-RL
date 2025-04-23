@@ -1,6 +1,6 @@
 # [Undone — The Architecture of Healing](https://claude.ai/public/artifacts/f22367a0-4287-496f-8476-8011fd5044ec)
 
-![image](https://github.com/user-attachments/assets/c43aecc7-92df-484c-9528-d995b6ceca1e)
+![undone](https://github.com/user-attachments/assets/8be826a0-1b59-41cb-b2c9-c77b5eef503b)
 
 > "Time isn't linear. It's a pattern that folds back on itself."  
 > — Alma Winograd-Diaz, *Undone*
