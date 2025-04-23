@@ -1,6 +1,7 @@
 # [Hayao Miyazaki Films — The Architecture of Memory and Silence](https://claude.ai/public/artifacts/801c1ddb-b5e9-4f3c-8452-9d530d981763)
 
-![A stylized image suggesting Miyazaki's environmental landscapes with moments of silence](https://github.com/user-attachments/assets/placeholder-miyazaki.jpg)
+![image](https://github.com/user-attachments/assets/bc2ccd0c-9ac0-415d-9218-d82829f94150)
+
 
 > "The time in between, the moments of silence in the animation, that's what's important."  
 > — Hayao Miyazaki
