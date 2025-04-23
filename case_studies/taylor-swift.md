@@ -1,6 +1,6 @@
 # Taylor Swift — *All Too Well (10 Minute Version)*: The Architecture of Recursive Memory
 
-![A stylized image evoking autumn leaves and a scarf, symbols from All Too Well](https://github.com/user-attachments/assets/placeholder-taylor-swift.jpg)
+![image](https://github.com/user-attachments/assets/00e41e21-dae5-45b6-937f-db2edc53e59b)
 
 > "And I know it’s long gone and that magic’s not here no more / And I might be okay, but I’m not fine at all"  
 > — Taylor Swift, *All Too Well (10 Minute Version)*
