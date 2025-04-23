@@ -1,6 +1,6 @@
 # [SZA — The Architecture of Vulnerability](https://claude.ai/public/artifacts/ce3143eb-8ac4-4535-b9b6-0a30939abf5c)
 
-![image](https://github.com/user-attachments/assets/c0e23edf-cae9-4a4a-9002-fa094f497231)
+![image](https://github.com/user-attachments/assets/5726bcdf-25e6-4bd7-b57b-d1dfef12ff94)
 
 > "I've always had a raw way of saying things that I didn't realize was so raw."  
 > — SZA
