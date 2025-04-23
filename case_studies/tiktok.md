@@ -1,6 +1,6 @@
 # Memes — TikTok Echo Trends: The Architecture of Collective Memory
 
-![A stylized image of TikTok echo waves rippling outward](https://github.com/user-attachments/assets/placeholder-tiktok-waves.jpg)
+![image](https://github.com/user-attachments/assets/f000c55c-6770-4a90-b485-0f07a94bc16e)
 
 > "It's not just a sound—it's the feeling that sound carries, echoing from creator to creator."  
 > — TikTok creator on viral audio trends
@@ -13,7 +13,7 @@ What makes TikTok unique isn't the platform itself, but how it has externalized 
 
 ## The Sound Memory
 
-What makes TikTok's audio trends so uniquely powerful is how they function not just as content but as carriers of emotional context—creating bridges between individual experiences that might otherwise remain isolated. When a sound clip from a reality show moment, movie scene, or original creator's video begins to spread, it's not just the words or melody being shared—it's the emotional texture, the precise feeling it evokes.
+What makes TikTok's audio trends so uniquely powerful is how they function not just as content but as carriers of emotional context—creating bridges between individual and cultural experiences that might otherwise remain isolated. When a sound clip from a reality show moment, movie scene, or original creator's video begins to spread, it's not just the words or melody being shared—it's the emotional texture, the precise feeling it evokes.
 
 This pattern resonates deeply because it mirrors something fundamental about how we process our own emotional experiences:
 
