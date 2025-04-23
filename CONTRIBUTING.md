@@ -1,6 +1,6 @@
 # Contributing to The Structure Behind Self-Expression
 
-![A spiral of connected handprints in different colors](https://github.com/user-attachments/assets/placeholder-contributing.jpg)
+![image](https://github.com/user-attachments/assets/5af2c3c1-a90c-4617-b9f5-82d644ba42b3)
 
 > "This collection grows not through instruction,  
 > but through recognition—each person  
