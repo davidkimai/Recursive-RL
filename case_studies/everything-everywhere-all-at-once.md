@@ -1,4 +1,4 @@
-# Everything Everywhere All At Once — The Architecture of Identity Loops
+# [Everything Everywhere All At Once — The Architecture of Identity Loops](https://claude.ai/public/artifacts/a9e7d0cf-ddde-491c-b97e-ac0be6e6de37)
 
 ![A spiral of bagels suggesting the multiverse with mother and daughter figures visible](https://github.com/user-attachments/assets/placeholder-eeaao.jpg)
 
