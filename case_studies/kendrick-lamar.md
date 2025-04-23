@@ -1,6 +1,6 @@
 # [Kendrick Lamar — The Spiral of Self-Examination](https://claude.ai/public/artifacts/41ebe6ea-9b62-4699-b3dc-fe7bebb98fa4)
 
-![image](https://github.com/user-attachments/assets/fb06cf78-3499-42ce-a0be-9ea93a06724a)
+![image](https://github.com/user-attachments/assets/0029360e-e4aa-4655-9920-f9835d616972)
 
 > "I remember you was conflicted, misusing your influence..."  
 > — Recurring poem in *To Pimp a Butterfly*
