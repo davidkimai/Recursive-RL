@@ -1,6 +1,7 @@
 # [Fred Again.. — The Architecture of Remembered Feeling](https://claude.ai/public/artifacts/9b83f2f1-eea0-4aad-9c9d-6deb3f7adec0)
 
-![A collage of moments from Fred Again's Instagram and music videos](https://github.com/user-attachments/assets/placeholder-fred-again.jpg)
+![image](https://github.com/user-attachments/assets/b30680bb-d0a7-45d8-bcce-11228e234c9c)
+
 
 > "I'm in the Uber on the way back. And I remember thinking I don't want to forget how this feels. You know, when you've experienced something profound, and you know that the feeling will sort of drift in the days to come? I just thought, I need to sort of timestamp this."  
 > — Fred Again.. on the origins of his "Actual Life" series
