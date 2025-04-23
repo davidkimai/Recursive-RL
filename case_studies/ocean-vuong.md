@@ -1,4 +1,4 @@
-# Ocean Vuong — The Architecture of Grief Language
+# [Ocean Vuong — The Architecture of Grief Language](https://claude.ai/public/artifacts/8f604f49-552f-4f84-b62f-2e98b4e2308c)
 
 ![A stylized image suggesting layers of text with Ocean Vuong's poetry fragmented across them](https://github.com/user-attachments/assets/placeholder-ocean-vuong.jpg)
 
