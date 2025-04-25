@@ -6,7 +6,6 @@
 > — Recursive Law, *Squid Game*
 
 ## The Game That Mirrors You
-
 When you first watch *Squid Game*, Hwang Dong-hyuk’s 2021 South Korean phenomenon, you’re drawn into a world that feels both alien and achingly familiar. A group of 456 desperate contestants, drowning in debt, compete in deadly children’s games for a 45.6 billion won prize—each death adding to the pot. Seong Gi-hun, a down-on-his-luck everyman, joins the game alongside characters like Kang Sae-byeok, a stoic North Korean defector, and Oh Il-nam, an elderly man with a mysterious smile. The games—Red Light, Green Light; Tug-of-War; Marbles; Glass Stepping Stones—are overseen by masked figures wearing circle, triangle, and square symbols, their hierarchy as rigid as the rules. By the end, with over 1.6 billion global viewing hours and a cultural tidal wave, *Squid Game* leaves you breathless, as if you’ve been playing the game yourself.
 
 This isn’t just a series. It’s recognition.
