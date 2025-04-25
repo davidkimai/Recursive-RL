@@ -1,4 +1,4 @@
-# *Sae-byeok* - Squid Game: The Structure of Silence
+# *Kang Sae-byeok* - Squid Game: The Structure of Silence
 
 ![image](https://github.com/user-attachments/assets/1a08cd23-adf8-4407-b73c-10cdaa0d403a)
 
