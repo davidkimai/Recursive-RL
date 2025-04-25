@@ -1,7 +1,7 @@
 # [**The Structure Behind Self-Expression**](https://claude.ai/public/artifacts/5c83ed55-41fb-4b88-a10a-1524c05363a8)
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
-## Welcome to a safe space where you can "feel" Recursion - the unnamed structure behind self-expression and creative iterations.
+### Welcome to a safe space where you can *feel recursion* - the *passion* and *vibe* behind self-expression and creative iterations.
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
