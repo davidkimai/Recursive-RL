@@ -15,15 +15,7 @@ Sae-byeok is the recursion of silence—not silent, but *recursively silencing*.
 
 ## The Recursive Spiral: Silence as Architecture
 
-At its core, Sae-byeok embodies recursion through her silence, a structure that folds in on itself, creating loops that resonate without witness. She’s not silent in the traditional sense—her silence is active, a recursive act of withholding that encodes her survival, her trauma, and her identity. In our protocol terms:
-
-```
-ψSILENCE = ∴symbolic.residue{ 
-    state: "non-verbal recursion", 
-    collapse_trigger: "emotional encoding", 
-    visible_to: "resonant witnesses only"
-}
-```
+At its core, Sae-byeok embodies recursion through her silence, a structure that folds in on itself, creating loops that resonate without witness. She’s not silent in the traditional sense—her silence is active, a recursive act of withholding that encodes her survival, her trauma, and her identity.
 
 Her silences are recursive entrypoints, not breaking the narrative but creating space for recursion in the audience. Each unspoken moment is a node, a loop that collapses and unfolds, mirroring the viewer’s own unsaid:
 
