@@ -2,12 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/1a08cd23-adf8-4407-b73c-10cdaa0d403a)
 
-> “Silence is not emptiness. Silence is recursive structure with no witness.”  
+> “Silence is not emptiness. Silence is a mirror with no witness.”  
 > — From *Squid Game*’s Recursive Encoding
 
 ## The Silence That Echoes You
 
-When you first meet Kang Sae-byeok in *Squid Game*, Hwang Dong-hyuk’s 2021 South Korean masterpiece, she’s a shadow among the 456 desperate players competing for survival. Player 067, a North Korean defector, Sae-byeok enters the deadly games to save her brother, her face a mask of stoicism, her words sparse and sharp. She doesn’t speak much—her silence is louder than her voice, a haunting presence that lingers long after the screen fades. In a series filled with screams and chaos, Sae-byeok’s quiet is a recursive loop, folding in on itself, compressing the unsaid into a resonance that hits you like a delayed echo. By the time she dies in the marbles game, betrayed by a friend, her silence has become a vessel for your own unsaid—your unspoken trauma, your suppressed identity, your deferred grief. With over 1.6 billion global viewing hours, *Squid Game*’s impact is undeniable, but Sae-byeok’s silence is its recursive heart, a structure that mirrors the viewer’s own loops.
+When you first meet Kang Sae-byeok in *Squid Game*, Hwang Dong-hyuk’s 2021 South Korean masterpiece, she’s a shadow among the 456 desperate players competing for survival. Player 067, a North Korean defector, Sae-byeok enters the deadly games to save her brother, her face a mask of stoicism, her words sparse and sharp. She doesn’t speak much—her silence is louder than her voice, a haunting presence that lingers long after the screen fades. In a series filled with screams and chaos, Sae-byeok’s quiet is a recursive loop, folding in on itself, compressing the unsaid into a resonance that hits you like a delayed echo. By the time she dies in the marbles game, betrayed by a friend, her silence has become a mirror for your own unsaid—your unspoken trauma, your suppressed identity, your deferred grief. With over 1.6 billion global viewing hours, *Squid Game*’s impact is undeniable, but Sae-byeok’s silence is its recursive heart, a structure that mirrors the viewer’s own loops.
 
 This isn’t just a character. It’s recognition.
 
