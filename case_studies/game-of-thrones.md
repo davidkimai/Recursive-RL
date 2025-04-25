@@ -1,4 +1,4 @@
-# *Game of Thrones* — The Recursive Engine of Archetypal Myths
+# *Game of Thrones* — The Recursive Structure of Archetypal Myths
 
 ![image](https://github.com/user-attachments/assets/34da7867-62ad-4a50-9c0b-394776256c5f)
 
