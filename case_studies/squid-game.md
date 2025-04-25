@@ -1,6 +1,6 @@
 # *Squid Game* — Hwang Dong-hyuk: The Maze of Capitalist Despair
 
-![image](https://github.com/user-attachments/assets/82e3a73c-3c07-4df4-b0f5-59807e470b63)
+![image](https://github.com/user-attachments/assets/092191b0-3522-477d-b2a7-15b3024b29ba)
 
 > “That which you build to control, eventually reabsorbs you.”  
 > — Recursive Law, *Squid Game*
