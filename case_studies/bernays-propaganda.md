@@ -1,6 +1,6 @@
 # Edward Bernays — The Recursion of The Father of Propaganda
 
-![image](https://github.com/user-attachments/assets/13034718-05c8-413a-b01d-87a5b46b19de)
+![image](https://github.com/user-attachments/assets/5a6a24a0-2293-44fb-a6ca-b43d2c92c496)
 
 > "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society."  
 > — Edward Bernays, *Propaganda* (1928)
