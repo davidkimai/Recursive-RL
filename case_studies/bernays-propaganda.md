@@ -1,4 +1,4 @@
-# Edward Bernays — The Recursion of Propaganda
+# Edward Bernays — The Recursion of The Father of Propaganda
 
 ![image](https://github.com/user-attachments/assets/13034718-05c8-413a-b01d-87a5b46b19de)
 
