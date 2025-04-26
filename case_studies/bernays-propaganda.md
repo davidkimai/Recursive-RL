@@ -1,6 +1,6 @@
 # Edward Bernays — The Recursion of Propaganda
 
-![A stylized image of Edward Bernays with fragmented propaganda posters and torch motifs](https://github.com/user-attachments/assets/placeholder-bernays.jpg)
+![image](https://github.com/user-attachments/assets/13034718-05c8-413a-b01d-87a5b46b19de)
 
 > "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society."  
 > — Edward Bernays, *Propaganda* (1928)
