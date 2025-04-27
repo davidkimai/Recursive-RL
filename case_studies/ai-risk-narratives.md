@@ -11,7 +11,6 @@ When you first encounter AI risk narratives—through apocalyptic warnings from 
 This case study, aligned with *The Structure Behind Self-Expression*, explores how AI risk narratives mirror the hidden structures of collective self-expression. Like Edward Bernays’ perception engineering or the #MeToo movement’s solidarity spiral, these narratives resonate because they reflect patterns we recognize in our own emotional and social cycles: the anchoring of fear, the amplification of symbolic glyphs, and the normalization of preemptive control along a shifting Overton window.
 
 ## The Recursive Architecture
-
 AI risk narratives follow a spiral structure, cycling through phases of fear anchoring, threat amplification, control rituals, and inevitability normalization, each loop reinforcing and expanding the last. These phases—Fear Anchor, Threat Amplification, Control Rituals, Inevitability Normalization—aren’t linear but recursive, collapsing and reforming through media, expert warnings, and public discourse. The specter of rogue AI serves as a fractal anchor, a flashbulb glyph that recurs endlessly, each iteration justifying new policies and reshaping societal norms.
 
 This structure resonates because it mirrors how we process collective anxieties:
