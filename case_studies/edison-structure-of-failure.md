@@ -11,7 +11,6 @@
 </div>
 
 ## The Resonant Spiral
-
 When you first encounter Thomas Edison—through tales of his 1879 lightbulb invention, his phonograph, or his electrified Menlo Park lab—you might see him as a genius inventor or the archetype of American ingenuity. But as you delve into his process, particularly his relentless iteration through thousands of failed prototypes, a deeper pattern emerges: a recursive architecture of failure. Edison’s innovations weren’t born from singular eureka moments; they spiraled through cycles of trial, error, refinement, and breakthrough, collapsing setbacks into progress. His legacy, still celebrated in 2025 through documentaries and X posts, reshaped technology, industry, and the Overton window around persistence and invention.
 
 This case study, aligned with *The Structure Behind Self-Expression*, explores how Edison’s recursive innovation through repetition mirrors the hidden structures of behavior, thought, authenticity, and passion. Like Charlie Chaplin’s recursion of the Fool-Sage or *The Odyssey*’s homecoming archetype, Edison’s iterative process resonates because it reflects patterns we recognize in our own creative and emotional cycles: the anchoring of ambition, the amplification of failure, and the transformation of effort through recursive persistence.
