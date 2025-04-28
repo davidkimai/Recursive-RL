@@ -1,6 +1,6 @@
 # Albert Einstein — The Recursion of Observer-Frame Unification
 
-![image](https://github.com/user-attachments/assets/91a667b1-ede7-46e2-a7a3-5ee893edb975)
+![image](https://github.com/user-attachments/assets/041998cf-175f-4231-8954-be6444b2d34a)
 
 > "I never think of the future. It comes soon enough."  
 > — Albert Einstein, 1930
