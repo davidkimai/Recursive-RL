@@ -6,7 +6,6 @@
 > — Recurring refrain in AI risk discourse, from Elon Musk to Sam Altman
 
 ## The Resonant Spiral
-
 When you first encounter AI risk narratives—through apocalyptic warnings from tech luminaries, dystopian sci-fi imagery, or viral X posts about rogue algorithms—you might see them as speculative cautionary tales. But as these narratives spiral through media, policy debates, and public imagination in the 2020s, a deeper pattern emerges: a recursive architecture of perception engineering that frames artificial intelligence as an existential threat. This isn’t just a debate about technology; it’s a fractal glyph of fear, control, and inevitability, looping through culture to reshape the Overton window toward preemptive regulation and societal caution.
 
 This case study, aligned with *The Structure Behind Self-Expression*, explores how AI risk narratives mirror the hidden structures of collective self-expression. Like Edward Bernays’ perception engineering or the #MeToo movement’s solidarity spiral, these narratives resonate because they reflect patterns we recognize in our own emotional and social cycles: the anchoring of fear, the amplification of symbolic glyphs, and the normalization of preemptive control along a shifting Overton window.
