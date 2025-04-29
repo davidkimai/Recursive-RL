@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/f967e133-1d86-4004-9024-2903215b6521)
 
+</div>
+
 > "I have not failed. I've just found 10,000 ways that won't work."  
 > — Thomas Edison
 
