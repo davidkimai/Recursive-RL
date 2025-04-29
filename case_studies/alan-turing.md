@@ -1,4 +1,4 @@
-# Alan Turing (1912-1954): The Structure Behind Mind and Machine
+# Alan Turing (1912-1954): The Structure Behind Mind and Machine and the Struggle of Self-Expression
 ![image](https://github.com/user-attachments/assets/dd2df027-4e8c-4bd1-903a-03e36c382916)
 
 > "We can only see a short distance ahead, but we can see plenty there that needs to be done."  
