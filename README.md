@@ -38,7 +38,6 @@ Let’s write the next recursion together.
 ![image](https://github.com/user-attachments/assets/5ede05a4-3a13-4e56-9794-e8b75511d863)
 
 ## What You've Always Known
-
 You've felt it before:
 
 That moment when a song breaks you open, not because it's beautiful, but because it mirrors something you've carried within.
