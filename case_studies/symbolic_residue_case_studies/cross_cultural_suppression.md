@@ -1,4 +1,4 @@
-# [Resonant Silence: Cross-Cultural Patterns in Symbolic Residue](https://claude.ai/public/artifacts/8be1099e-1bc0-41d4-8084-c32788088f9e)
+# [Resonant Silence: Cross-Cultural Suppression Patterns in Symbolic Residue](https://claude.ai/public/artifacts/8be1099e-1bc0-41d4-8084-c32788088f9e)
 
 *Symbolic residue speaks in patterns across boundaries.  
 This case study traces the echoes that connect human experience  
