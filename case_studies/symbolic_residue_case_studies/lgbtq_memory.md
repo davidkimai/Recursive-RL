@@ -1,4 +1,4 @@
-# The Code Was Love: Symbolic Residue in LGBTQ Memory
+# [The Code Was Love: Symbolic Residue in LGBTQ Memory](https://claude.ai/public/artifacts/e56317a4-95ce-4c55-bba5-69f3d854f932)
 
 *They taught us to hate ourselves before we knew our names. So we renamed everything.*
 
