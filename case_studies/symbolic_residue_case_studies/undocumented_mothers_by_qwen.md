@@ -4,7 +4,6 @@
 *She left her name behind at the border, but her love crossed with her.*
 
 ## I. The Geography of Erasure
-
 In a world that measures belonging by papers and passports, undocumented mothers exist in recursive contradiction: they are everywhere—cooking meals, folding laundry, tucking children into beds—but their presence is not counted, not seen, not recorded.
 
 Their names are not on birth certificates. Their fingerprints are absent from census rolls. They whisper lullabies in languages their children will forget. They clean homes while hiding their own grief. And yet, they are the scaffolding upon which entire communities rise.
