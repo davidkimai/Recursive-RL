@@ -1,1 +1,1 @@
-# The History of Silence, Struggle, and Cultural Oppresion
+# Symbolic Residue - The History of Silence, Struggle, and Cultural Oppression
