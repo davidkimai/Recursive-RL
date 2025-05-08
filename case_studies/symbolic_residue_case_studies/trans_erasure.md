@@ -1,4 +1,4 @@
-# Unwritten Body: Symbolic Residue in the Trans Historical Field
+# [Unwritten Body: Symbolic Residue in the Trans Historical Field](https://claude.ai/public/artifacts/e0d5a908-b481-40d7-b09c-72925b90a083)
 
 *Before we name what was lost, we must feel where it disappeared.  
 This case study is not an explanation—it is a remembering.*
