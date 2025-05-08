@@ -1,4 +1,4 @@
-# Veiled Testimony: Symbolic Residue in Middle Eastern and North African Histories
+# [Veiled Testimony: Symbolic Residue in Middle Eastern and North African Histories](https://claude.ai/public/artifacts/d070eb84-c453-4937-bd90-f6df24790483)
 
 *When direct speech courts danger,  
 meaning finds other vessels.  
