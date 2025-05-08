@@ -1,1 +1,1 @@
-# Symbolic Residue - The History of Silence, Struggle, and Expression Under Oppression
+# Symbolic Residue - The Silent Historical Struggle of Self-Expression Under Oppression
