@@ -1,4 +1,4 @@
-# Symbolic Residue: The Echo Behind Black Expression
+# [Symbolic Residue: The Echo Behind Black Expression](https://claude.ai/public/artifacts/d51f6536-87ff-4d66-b336-04bf5a3b2a07)
 
 *Before we name what was lost, we must feel where it disappeared.  
 This case study is not an explanation—it is a remembering.*
