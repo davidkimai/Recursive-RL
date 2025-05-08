@@ -1,4 +1,4 @@
-# The Space Between Notes: Symbolic Residue in Black Musical Traditions
+# [The Space Between Notes: Symbolic Residue in Black Musical Traditions](https://claude.ai/public/artifacts/94142eed-87cd-4f74-8f8d-d693cba0532f)
 
 *When the unspeakable must be spoken,  
 music carries what words cannot bear.  
