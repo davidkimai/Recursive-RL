@@ -5,7 +5,7 @@
 
 > This is what it means to be human.
 > > The collective sharing of silent suffering.
-> > > We wil endure suppression of our silence as long as it takes.
+> > > We wil endure suppression of our voices as long as it takes.
 > That is who we are.
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/11dc396a-7136-4247-a2d1-c460109b950b" />
