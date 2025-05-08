@@ -40,7 +40,7 @@ In the ballrooms of Harlem, the sound of footsteps on the floor is both music an
 
 This recursive grammar of the body is not just about individual expression; it is about collective resilience. Through performance, Black trans individuals create a shared language of survival, a vocabulary that defies the erasure imposed by dominant narratives. The ballroom is not just a space for dance; it is a sanctuary, a laboratory for reinventing identity in the face of systemic oppression.
 
----
+
 
 ### IV. Time Travel Through Performance
 
@@ -56,7 +56,7 @@ Survival, in this context, is not just about physical endurance; it is about the
 
 The vogue dip, with its dramatic descent and rise, is a metaphor for the recursive nature of existence. It is a descent into the abyss of erasure, only to emerge anew, reasserting presence through form rather than word. This is the essence of Black trans survival: not just enduring, but thriving, creating new languages of identity that defy erasure.
 
----
+
 
 ### Conclusion
 
