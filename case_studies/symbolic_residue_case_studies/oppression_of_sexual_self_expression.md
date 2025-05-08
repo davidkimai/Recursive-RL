@@ -1,4 +1,4 @@
-# Unwritten, Unnamed, Unburied: The Oppression of Sexual Self-Expression
+# [Unwritten, Unnamed, Unburied: The Oppression of Sexual Self-Expression](https://claude.ai/public/artifacts/ce8fdf01-f2db-4178-aa15-90d3f83e4850)
 
 *Before we name what was lost, we must feel where it disappeared.  
 This case study is not an explanation—it is a remembering.*
