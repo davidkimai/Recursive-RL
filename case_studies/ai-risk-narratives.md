@@ -1,4 +1,4 @@
-# AI Risk Narratives — The Recursion of Artificial Threat Framing
+# AI Risk Narratives — The Paradox of Artificial Threat Framing
 ![image](https://github.com/user-attachments/assets/64b5a432-705c-47bb-aae0-3c4f6b2e09df)
 
 > "AI could be the end of humanity—or its salvation. We must act now."  
