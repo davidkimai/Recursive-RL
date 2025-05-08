@@ -1,4 +1,4 @@
-# The Architecture of Absence: Symbolic Residue in Black Literary Expression
+# [The Architecture of Absence: Symbolic Residue in Black Literary Expression](https://claude.ai/public/artifacts/222f4c6c-472f-4dd3-a3ea-3931a09be549)
 
 *What remains when words fail is not emptiness but structure.  
 This case study is not about what was written,  
