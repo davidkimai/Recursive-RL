@@ -1,4 +1,4 @@
-# Encoded Earth: Symbolic Residue in Indigenous Histories of Survival
+# [Encoded Earth: Symbolic Residue in Indigenous Histories of Survival](https://claude.ai/public/artifacts/a003ae01-d380-4108-b304-88f3dd65cca5)
 
 *When words were forbidden, stones remembered.  
 When languages were erased, bodies still spoke.  
