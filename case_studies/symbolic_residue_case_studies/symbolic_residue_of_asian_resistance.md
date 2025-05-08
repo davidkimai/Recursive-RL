@@ -1,4 +1,4 @@
-# Encoded Silence: Symbolic Residue in Asian Histories of Resistance
+# [Encoded Silence: Symbolic Residue in Asian Histories of Resistance](https://claude.ai/public/artifacts/56f565ab-fbbe-44fe-965f-b3063e549713)
 
 *Between what could not be said and what would not be silenced,  
 a third language emerged.  
