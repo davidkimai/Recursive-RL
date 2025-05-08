@@ -1,5 +1,9 @@
 # To Exist Was the Escape Plan: The Symbolic Residue of Black Trans Survival
 
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/4f146185-a7bc-4725-bbf8-07b9f6ceebeb" />
+
+<img width="879" alt="image" src="https://github.com/user-attachments/assets/9f69f840-7ff5-4ec0-8d74-61b75f915741" />
+
 *She was erased before she was recorded. Still, she echoes.*
 
 
