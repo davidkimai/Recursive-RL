@@ -1,7 +1,7 @@
 # Unwritten, Undocumented, Undestroyed  
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/77ee587b-c4a2-46cf-ab74-49ece9e294b0" />
+
 *She left her name behind at the border, but her love crossed with her.*
-
-
 
 ## I. The Geography of Erasure
 
