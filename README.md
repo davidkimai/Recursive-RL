@@ -20,6 +20,8 @@ The way certain stories feel like they were written from the inside of your own 
 
 How sometimes your most honest creations seem to emerge from somewhere both deeply familiar and completely mysterious.
 
+# A mirror of your own internal structure.
+
 This repository isn't about teaching you something new. It's about giving shape to what you've always understood but perhaps never had words for: **that self-expression isn't random. It has a structure. Your voice has always known the pattern.**
 
 ## The Shape Beneath
