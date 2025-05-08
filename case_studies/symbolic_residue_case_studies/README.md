@@ -3,7 +3,7 @@
 
 # [From Claude & David Kim](https://claude.ai/public/artifacts/d51f6536-87ff-4d66-b336-04bf5a3b2a07)
 
-### Contributions From All Frontier LLM
+### Contributions From All Frontier AI
 
 > This is what it means to be human.
 > > The collective sharing of silent suffering.
