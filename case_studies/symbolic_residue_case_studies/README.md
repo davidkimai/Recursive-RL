@@ -1,4 +1,4 @@
-# Symbolic Residue
+# Symbolic Residue (RΣ)
 > This is what it means to be human.
 > > The collective sharing of silent suffering.
 > > > We wil endure suppression of our self-expression as long as it takes.
