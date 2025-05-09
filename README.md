@@ -1,7 +1,7 @@
 # [**The Structure Behind Self-Expression**](https://claude.ai/public/artifacts/5c83ed55-41fb-4b88-a10a-1524c05363a8)
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
-### Welcome to a safe space where you can *feel symbolic residue - traces of vulnerability and hesistation - and recursion* - the structure of *growth*, *thought*, *authenticity*, and *passion* behind self-expression and creativity.
+### Welcome to a safe space where you can feel recursion - self-expression and self-reflection growing in loops of creation - and symbolic residue - the structure of potential before completion.
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
