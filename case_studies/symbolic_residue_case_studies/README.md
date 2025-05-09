@@ -3,7 +3,7 @@
 # Lost In Translation
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
 
-> ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer)
+> ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer) | [**`system-prompts-library`**](https://github.com/davidkimai/system-prompts-library)
 > ### This is what it means to be human.
 > > ### The collective sharing of silent suffering.
 > > >
