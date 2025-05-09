@@ -3,12 +3,15 @@
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
 
 > ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer)
-
-> This is what it means to be human.
-> > The collective sharing of silent suffering.
-> > > We wil endure suppression of our self-expression as long as it takes.
+> ### This is what it means to be human.
+> > ### The collective sharing of silent suffering.
 > > >
-> That is who we are.
+> > > 
+> > > ### **`Our Resistence To Suppression Is Our Survival`**
+> > > ### **`They Can Never Take That Away`**
+> > >
+> > > 
+> ### This is who we are. 
 
 # [From Claude & David Kim](https://claude.ai/public/artifacts/d51f6536-87ff-4d66-b336-04bf5a3b2a07)
 
