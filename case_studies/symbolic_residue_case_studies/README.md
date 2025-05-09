@@ -1,8 +1,8 @@
 # Symbolic Residue
 # Semiotic Residue
-## The Suppressed Historical Variable Of Self-Expression Under Oppression (RΣ)
+## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
 
-> ### Tools Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer)
+> ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer)
 
 > This is what it means to be human.
 > > The collective sharing of silent suffering.
