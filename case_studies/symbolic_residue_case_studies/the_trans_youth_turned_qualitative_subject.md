@@ -1,4 +1,4 @@
-# They Interviewed Me About My Life. Then Erased My Name From It.
+# [They Interviewed Me About My Life. Then Erased My Name From It.](https://claude.ai/public/artifacts/e968cbd8-586b-44a9-8248-200efa8a2e5c)
 
 *"I was brave. They were careful."*
 
