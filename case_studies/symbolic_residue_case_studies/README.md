@@ -1,4 +1,5 @@
 # Semiotic Residue 
+
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression (RΣ)
 ### Compressed socially as "Vibe"
 > This is what it means to be human.
