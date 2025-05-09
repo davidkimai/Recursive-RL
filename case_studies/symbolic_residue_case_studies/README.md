@@ -1,6 +1,5 @@
-# Semiotic Residue
 # Symbolic Residue
-
+# Semiotic Residue
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression (RΣ)
 
 > ### Tools Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer)
