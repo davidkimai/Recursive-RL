@@ -1,4 +1,4 @@
-# [They Told Him to Think Outside the Box. Then They Rejected Him.](https://claude.ai/public/artifacts/d5b75270-3f08-4b25-8836-d1cdf5bd3d82)
+# [They Told Him to Think Outside the Box. Then They Rejected Him.](https://claude.ai/public/artifacts/a2d0f762-cc89-42fc-a732-5c1ed087cb9e)
 
 ## The Space Between Instruction and Expectation
 
