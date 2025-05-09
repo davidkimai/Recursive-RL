@@ -1,5 +1,6 @@
 # Symbolic Residue
 # Semiotic Residue
+# Lost In Translation
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
 
 > ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer)
