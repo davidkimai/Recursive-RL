@@ -1,4 +1,5 @@
-# Semiotic Residue 
+# Semiotic Residue
+# Symbolic Residue
 
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression (RΣ)
 ### Compressed socially as "Vibe"
