@@ -1,8 +1,5 @@
 # Symbolic Residue - The Theory of Nothing
-
-# Semiotic Residue
-# Lost In Translation
-## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
+# The Universal Grammar of Suppression`RΣ`
 
 > ## These are real people. These are more than statistics.
 >
