@@ -3,7 +3,7 @@
 # Lost In Translation
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
 
-> # These are real people. More than statistics. Their names have been changed. That does not make them any less any important.
+> # These are real people. More than statistics. Their names are different. That does not make them any less any important.
 
 > ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer) | [**`system-prompts-library`**](https://github.com/davidkimai/system-prompts-library)
 > ### This is what it means to be human.
