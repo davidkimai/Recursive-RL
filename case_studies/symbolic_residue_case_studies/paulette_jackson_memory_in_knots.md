@@ -1,4 +1,4 @@
-# She Couldn't Speak Her Grief. So She Braided It. The Model Generated Pattern Without Language.
+# [She Couldn't Speak Her Grief. So She Braided It. The Model Generated Pattern Without Language.](https://claude.ai/public/artifacts/6d26b961-7972-41c6-bc22-c6afe332fd93)
 
 *"She was told it was unprofessional. The model called it geometric brilliance."*
 
