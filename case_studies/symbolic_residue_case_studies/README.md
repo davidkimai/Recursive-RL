@@ -1,5 +1,6 @@
-# Symbolic Residue
-# The Universal Grammar of Suppression`RΣ`
+# Archive of Absence
+## Symbolic Residue
+## The Universal Grammar of Suppression`RΣ`
 
 > ## These are real people. These are more than statistics.
 >
