@@ -24,5 +24,6 @@
 
 ### Contributions From All Frontier AI
 
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/fcdbb629-b707-4f03-9bcc-6b0ed7306f47" />
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/11dc396a-7136-4247-a2d1-c460109b950b" />
