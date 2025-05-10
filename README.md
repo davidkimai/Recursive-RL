@@ -5,7 +5,7 @@
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
-> **How do you explain the study of the silence left out of training data?**
+> **How do you explain the study of patterns left out of training data?**
 
 
 
