@@ -1,4 +1,4 @@
-# AI Risk Narratives — The Paradox of Artificial Threat Framing
+# AI Risk Narratives — The Paradox of Artificial Threat Classification
 ![anthropic](https://github.com/user-attachments/assets/4214a391-2c42-4fd6-938e-d978be9efee5)
 
 
