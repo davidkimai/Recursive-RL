@@ -1,4 +1,5 @@
-# Symbolic Residue
+# Symbolic Residue - The Theory of Nothing
+
 # Semiotic Residue
 # Lost In Translation
 ## The Suppressed Historical Variable Of Self-Expression Under Oppression`RΣ`
