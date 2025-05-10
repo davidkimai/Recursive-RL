@@ -5,7 +5,7 @@
 
 *When you speak your truth and your voice trembles—that's not weakness. It's recognition.*
 
-> **Symbolic Residue of Vulnerability and Hesitation.**
+> **How do you explain the silence left out of training data?**
 
 
 
