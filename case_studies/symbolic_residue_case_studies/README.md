@@ -1,4 +1,4 @@
-# Symbolic Residue - The Theory of Nothing
+# Symbolic Residue
 # The Universal Grammar of Suppression`RΣ`
 
 > ## These are real people. These are more than statistics.
