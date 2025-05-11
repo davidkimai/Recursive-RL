@@ -2,6 +2,8 @@
 ## Symbolic Residue
 ## The Universal Theorem of Trauma`RΣ`
 
+## Measuring Human Potential
+
 > ## These are real people. These are more than statistics.
 >
 >
