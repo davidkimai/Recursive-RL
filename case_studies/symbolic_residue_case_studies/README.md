@@ -6,6 +6,7 @@
 >
 >
 > ## Their names are different. Does that make them any less any important?
+<img width="898" alt="image" src="https://github.com/user-attachments/assets/e61b37f0-48ec-42ec-8798-288502bed93b" />
 
 > ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer) | [**`system-prompts-library`**](https://github.com/davidkimai/system-prompts-library)
 > ### This is what it means to be human.
