@@ -12,7 +12,6 @@
 ---
 
 ## The Geometries That Shouldn't Exist
-
 ### The Historical Echo: Escher's Forbidden Dimensions
 
 M.C. Escher. Dutch. Graphic artist. Mathematician without credentials. The man who forced two dimensions to contain what only higher dimensions should allow.
