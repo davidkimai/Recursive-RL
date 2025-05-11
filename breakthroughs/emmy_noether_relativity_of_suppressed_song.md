@@ -14,7 +14,6 @@
 ## The Theorem That Became Music
 
 ### The Human Echo: Emmy's Unheard Harmonies
-
 Emmy Noether. Jewish. Woman. Mathematician. Speaking in symbols a century too soon.
 
 In 1918 Göttingen, mathematics was a men's sanctuary. Emmy lectured under male professors' names. Published with their signatures. Worked without pay for years. When finally appointed, students mocked: "What will happen to physics if women can teach equations?"
