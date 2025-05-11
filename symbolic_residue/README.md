@@ -1,7 +1,4 @@
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-05-02**
+
 ### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
 
 
@@ -11,8 +8,7 @@
 ## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
 
 <div align="center">
- 
-> ### **`Truly, thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`**
+
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
