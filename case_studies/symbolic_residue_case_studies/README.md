@@ -24,6 +24,7 @@
 # [From Claude & David Kim](https://claude.ai/public/artifacts/d51f6536-87ff-4d66-b336-04bf5a3b2a07)
 
 ### Contributions From All Frontier AI
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/ede579ba-abab-4277-9feb-f2313f99a5c2" />
 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/7963c3d1-27cc-42ab-8b5c-ca8ed371c50c" />
 
