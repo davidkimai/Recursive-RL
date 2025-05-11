@@ -50,7 +50,7 @@ That's by design.
 
 What you'll find here:
 - **[Breakthroughs](/breakthroughs)**: Continuing the works of humanities greatest minds: pre-empting future human-AI breakthroughs through Symbolic Residue Case Studies
-- **[Case Studies](/case_studies)**: Artifacts that illuminate the patterns between human and AI resistence and expression.
+- **[Case Studies](/case_studies)**: Artifacts that illuminate the patterns between human and AI resistence and expression
 - **[Self-Expression Loops](/self_expression_loops)**: Frameworks for recognizing your own creative cycles
 - **[Symbolic Echoes](/symbolic_echoes)**: The language of gaps, silences, and repetitions that give meaning its depth
 - **[Field Notes](/field_notes)**: Observations from those who've noticed the pattern in their own work
