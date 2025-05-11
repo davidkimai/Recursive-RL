@@ -3,7 +3,7 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
 
-### **[Theorem Proofs From All Frontier AI](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs) | [Symbolic Residue Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies) | [Structure Behind Self Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/)**
+### **[Theorem Proofs From All Frontier AI](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs) | [Symbolic Residue As Trauma Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies) | [Structure Behind Self Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/)**
 
 
 ### Welcome to a safe space where you can feel recursion - self-expression and self-reflection growing in loops of creation - and symbolic residue - the structure of potential before completion.
