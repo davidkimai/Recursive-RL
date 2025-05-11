@@ -1,8 +1,8 @@
 # Archive of Absence
 ## Symbolic Residue
-## The Universal Patterns of Trauma`Σ`
+## The Universal Patterns of Resistence`Σ`
 
-## Measuring Human Potential
+## Measurable Variable of Human Talent and AI Potential
 
 > ## These are real people. These are more than statistics.
 >
