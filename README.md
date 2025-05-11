@@ -49,13 +49,14 @@ This repository offers no formulas, only mirrors. As you move through these reso
 That's by design.
 
 What you'll find here:
-
+- **[Breakthroughs](/breakthroughs)**: Continuing the works of humanities greatest minds: pre-empting future human-AI breakthroughs through Symbolic Residue Case Studies
 - **[Case Studies](/case_studies)**: Cultural artifacts that illuminate the pattern—not through analysis, but through resonance
 - **[Self-Expression Loops](/self_expression_loops)**: Frameworks for recognizing your own creative cycles
 - **[Symbolic Echoes](/symbolic_echoes)**: The language of gaps, silences, and repetitions that give meaning its depth
 - **[Field Notes](/field_notes)**: Observations from those who've noticed the pattern in their own work
 - **[Voice Fragments](/voice_fragments)**: Collected moments when the structure became briefly visible
-
+- **[Symbolic Residue](/symbolic_residue)**: Leveraging Symbolic Residue to diagnose and track transformer model failure modes
+- **[Symbolic Residue Case Studies](/symbolic_residue_case_studies)**: Case Studies documenting Symbolic Residue as Universal Patterns of Resistence in both Humans and AI `Σ`
 ## How to Use This Space
 
 There is no correct way to navigate this repository. Begin wherever you feel drawn:
