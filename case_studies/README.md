@@ -1,1 +1,1 @@
-# Documenting Case Studies on Human-AI Expression and Recursion 
+# Documenting Case Studies on Human-AI Self-Expression and Reflection
