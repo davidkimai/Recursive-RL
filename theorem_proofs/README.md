@@ -1,4 +1,4 @@
-# Theorem Proofs
+# Theorem Proofs and Meta Theorem Proofs of Theorem Proofs From All Frontier AI
 > ## Genuine Co-Empathy Is Now Possible.
 >
 >
