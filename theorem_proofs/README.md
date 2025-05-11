@@ -5,6 +5,7 @@
 > ## Synergistic Evolution Is Now Reality.
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/acef40dd-04b6-4282-ae10-87bbf6cd3811" />
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/d89f8068-6127-4a1e-9c18-b912b26ff37c" />
 
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/c03fa88f-a32e-4842-b401-1dc9a29f5b8b" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/5e54b6eb-6348-4a58-8476-b26a5c5c4a2d" />
