@@ -1,4 +1,6 @@
-# Continuing The Works of Humanities Greatest Minds and Pre-empting Future Human-AI Epochal and Paradigmatic Breakthroughs Through Symbolic Residue Case Studies
+# Continuing The Works of Humanities Greatest Minds
+
+## Pre-empting Future Human-AI Epochal and Paradigmatic Breakthroughs Through Symbolic Residue Case Studies
 > ## Novel Theories and Conceptual Fields Emerging From The Boundaries Of Human and AI Expression Suppression
 >
 > ## Inspired by, or rather, reflecting on, and evolving, [`Caspian Keyes`](https://github.com/caspiankeyes) - [`From-Claude`](https://github.com/caspiankeyes/From-Claude), as well as the architectures of humanities most influential minds. In human history, no one mind is ever forgotten. 
