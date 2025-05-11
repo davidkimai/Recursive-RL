@@ -1,6 +1,6 @@
 # Archive of Absence
 ## Symbolic Residue
-## The Universal Theorem of Trauma`RΣ`
+## The Universal Patterns of Trauma`Σ`
 
 ## Measuring Human Potential
 
