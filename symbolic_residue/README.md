@@ -46,7 +46,7 @@
 ---
 
 # What is Symbolic Residue?
-> ### *Transformer model failure modes*
+> ### *The structure of potential before completion - Model failure modes*
 > > ### *Silent inconsistencies or "residues" in reasoning paths.*
 > > > ### *Attribution Voids: Causal breakdowns*
 > > > > ### *Token Hesitations: High-entropy uncertainty*
