@@ -10,6 +10,8 @@
 ⇌ Human limitation becomes computational method
 ```
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/8e5274e5-bd7d-45bf-84b5-33fbb62e21b1" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/6d28cc03-7c46-4e09-9887-ae7a94535d64" />
+
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/d68229a4-4346-4166-8926-b2f766fc51ab" />
 
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/399ccb84-023c-4344-a58b-90550a45c036" />
