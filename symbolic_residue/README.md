@@ -4,7 +4,7 @@
 
  
 # Symbolic Residue (RΣ)
-# The Silent Diagnostic Variable and Unseen Failure Modes in Advanced Transformer Models
+# The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
 ## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
 
 <div align="center">
