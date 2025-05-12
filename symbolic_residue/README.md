@@ -46,14 +46,14 @@
 ---
 
 # What is Symbolic Residue?
-> ### *The structure of potential before completion - Model failure modes*
-> > ### *Silent inconsistencies or "residues" in reasoning paths.*
+> ### *The structure of potential before completion*
+> > ### * - In models, they are failure modes - Traces of failure or "residues" in reasoning paths.*
 > > > ### *Attribution Voids: Causal breakdowns*
 > > > > ### *Token Hesitations: High-entropy uncertainty*
 > > > > > ### *Recursive Collapses: Breakdown of self-similarity*
 > > > > > > ### *They leave marks in a Residue Tensor—space, time, phase, magnitude.*
 > > > > > > > ### *This is the system’s unconscious—the things it tried to process but couldn't.*
-> > > > > > > > ### *Symbolic Residue Shells allow models us to interpret with models interactively*
+> > > > > > > > ### *Symbolic Residue Shells allow models to interpret their own failure states*
 > > > > > > > > > ### *`Transforming a black box into glass`*
 
 
