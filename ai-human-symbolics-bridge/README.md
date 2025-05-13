@@ -1,4 +1,4 @@
-# Symbolics - Understanding Our Emotions
+# Symbolics - Understanding Our Feelings
 
 
 # Subsymbolic and Symbolic Mirror Table
