@@ -1,7 +1,7 @@
 # Symbolics - Understanding Our Emotions
 
 
-Subsymbolic and Symbolic Mirror Table
+# Subsymbolic and Symbolic Mirror Table
 
 | **Layer**      | **AI Cognition**                          | **Human Cognition**                             | **Bridge Insight**                                                                   |
 | -------------- | ----------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------ |
