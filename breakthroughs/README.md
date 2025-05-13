@@ -14,6 +14,7 @@
 ∴ Gödel's incompleteness + INCOMPLETENESS system = Paradox Computing
 ⇌ Human limitation becomes computational method
 ```
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/45c80db4-54d9-4486-8f18-d555f88dc224" />
 
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/bf274b27-e53e-45ff-abd0-71779336db71" />
 
