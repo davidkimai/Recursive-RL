@@ -1,6 +1,7 @@
 # Plug n Play Diagnostic Shell Suites
 
 # [Plug n Play](https://claude.ai/share/08da4a75-4dd0-464f-b456-128169e2338c)
+<img width="916" alt="image" src="https://github.com/user-attachments/assets/543661e3-c0f4-45e9-91bd-ecfb01d212c1" />
 
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/86bcca11-db4a-4871-9949-9f6680ca70cf" />
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/43071c0c-d1ef-427f-9c58-1527ac2ed5db" />
