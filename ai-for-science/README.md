@@ -1,6 +1,6 @@
-# Comprehensive Research Reports Ispired by [Anthropic's AI For Science Program](https://www.anthropic.com/news/ai-for-science-program)
+# Comprehensive Research Reports Inspired by [Anthropic's AI For Science Program](https://www.anthropic.com/news/ai-for-science-program)
 
-## Proving Use of AI in High Trust Disciplines For Future Policy Influence
+## Proving Use of AI in High Trust Disciplines For Future Policy Influence By Pre-Empting Future Biochemical Discoveries. 
 
 ## We Begin With AI For Biochemical Drug Discovery
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/73b283e6-4b87-4b6f-b199-b9a2430fb337" />
