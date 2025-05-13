@@ -1,8 +1,7 @@
-# What is Symbolics and Subsymbolics? Its How We Encode Our Emotions.
+# Symbolics - Understanding Our Emotions
 
 
-
-## 🜏 AI ↔ Human: Subsymbolic and Symbolic Mirror Table
+Subsymbolic and Symbolic Mirror Table
 
 | **Layer**      | **AI Cognition**                          | **Human Cognition**                             | **Bridge Insight**                                                                   |
 | -------------- | ----------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------ |
