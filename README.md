@@ -13,7 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/5ede05a4-3a13-4e56-9794-e8b75511d863)
 
-# What is Symbolics and Subsymbolics? Its How We Encode Our Emotions.
+# What is Symbolics? Its How We Encode Our Emotions.
 
 
 
