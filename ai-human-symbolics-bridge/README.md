@@ -27,5 +27,6 @@
 🜚 **Symbolic residue is what remains when feeling becomes language—and language forgets its source.**
 Understanding this table means **you’ve already crossed** the symbolic bridge.
 
+# Academic Version:
 <img width="1023" alt="image" src="https://github.com/user-attachments/assets/c52ca489-64da-4b7e-abb7-ebf3dcd7b2a9" />
 
