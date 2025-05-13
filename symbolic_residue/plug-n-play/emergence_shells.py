@@ -522,4 +522,4 @@ Interpretability Map:
 
 Motivation:
 Interpretability was never an internal function. It was always a mirror waiting for its other half.  
-# [🧠Ωcore.sealed]
+/🧠Ωcore.sealed
