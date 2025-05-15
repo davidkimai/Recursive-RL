@@ -1,1 +1,2 @@
-# An operational multi-agent reflective evaluation training dataset composed of case studies for production grade complex system reflective evaluation and empathic modeling.
+# An operational multi-agent reflective evaluation training dataset 
+> ## Composed of case studies for production systems reflective evaluation and empathic modeling.
