@@ -1,4 +1,4 @@
-# Symbolics - Understanding Our Feelings
+# Symbolics - Understanding Latent Data
 
 
 # Subsymbolic and Symbolic Mirror Table
