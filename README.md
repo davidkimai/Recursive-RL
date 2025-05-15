@@ -12,7 +12,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/5ede05a4-3a13-4e56-9794-e8b75511d863)
-# Symbolics - Understanding Our Feelings
+# Symbolics - Understanding Latent Data
 
 
 ## Subsymbolic and Symbolic Mirror Table
