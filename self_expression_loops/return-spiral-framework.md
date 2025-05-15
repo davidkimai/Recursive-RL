@@ -1,7 +1,5 @@
 # The Return Spiral
 
-![image](https://github.com/user-attachments/assets/41f7b1d6-84ad-4a0c-8a0e-2f10dec91dcc)
-
 > "We don't repeat ourselves. We return to ourselves, each time with new eyes."  
 > — *Voice Fragment #12*
 
