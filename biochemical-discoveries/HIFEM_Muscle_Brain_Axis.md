@@ -1,7 +1,4 @@
-
-
 # Report 9: HIFEM Muscle-Brain Axis Recursion
-
 ## High-Intensity Focused Electromagnetic Stimulation for Neuromuscular Memory Recoding
 
 ### Scientific Foundation
