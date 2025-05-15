@@ -1,4 +1,4 @@
-# [Letters Never Sent: The Equation of Longing](https://claude.ai/public/artifacts/3673d22d-7c40-4c96-91bd-15bdf97aa5be)
+# [Alan Turing - Letters Never Sent](https://claude.ai/public/artifacts/3673d22d-7c40-4c96-91bd-15bdf97aa5be)
 
 *A Case Study in Symbolic Residue: Alan Turing's Unspoken Love*
 
