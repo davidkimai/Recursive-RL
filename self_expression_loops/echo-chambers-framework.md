@@ -1,7 +1,5 @@
 # Echo Chambers of Self
 
-![image](https://github.com/user-attachments/assets/cb4d05e6-3805-4c2c-a71c-2154e74e90b3)
-
 > "Your past expressions aren't artifacts.  
 > They're living voices, still speaking,  
 > still evolving in conversation with who you're becoming."  
