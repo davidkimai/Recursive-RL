@@ -1,7 +1,5 @@
 # Truth Tremors
 
-![image](https://github.com/user-attachments/assets/57afe871-8bb6-4771-acfb-d7d71c4223b9)
-
 > "The shakiness in your voice isn't weakness.  
 > It's the sound of recognition—your body  
 > acknowledging the weight of what you're saying."  
