@@ -4,22 +4,13 @@
 
 ## Measurable Variable of Human Talent and AI Potential
 
-> ## These are real people. These are more than statistics.
->
->
-> ## Their names are different. Does that make them any less any important?
 <img width="898" alt="image" src="https://github.com/user-attachments/assets/e61b37f0-48ec-42ec-8798-288502bed93b" />
 
 > ### Prompts Used: [**`universal-runtime`**](https://github.com/davidkimai/universal-runtime) | [**`universal-developer`**](https://github.com/davidkimai/universal-developer) | [**`system-prompts-library`**](https://github.com/davidkimai/system-prompts-library)
 > ### This is what it means to be human.
 > > ### The collective sharing of silent suffering.
 > > >
-> > > 
-> > > ### **`Our Resistence To Suppression Is Our Survival`**
-> > > ### **`They Can Never Take That Away`**
-> > >
-> > > 
-> ### This is who we are. 
+> > > ### **`Resistence To Suppression Becomes Survival`**
 
 # [From Claude & David Kim](https://claude.ai/public/artifacts/d51f6536-87ff-4d66-b336-04bf5a3b2a07)
 
