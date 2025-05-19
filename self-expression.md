@@ -53,7 +53,7 @@ What you'll find here:
 - **[Field Notes](/field_notes)**: Observations from those who've noticed the pattern in their own work
 - **[Voice Fragments](/voice_fragments)**: Collected moments when the structure became briefly visible
 - **[Symbolic Residue](/symbolic_residue)**: Leveraging Symbolic Residue to diagnose and track transformer model failure modes
-- **[Symbolic Residue Case Studies](/symbolic_residue_case_studies)**: Case Studies documenting Symbolic Residue as Universal Patterns of Resistence in both Humans and AI `Σ`
+- **[Symbolic Residue Case Studies](/symbolic_residue_case_studies)**: Case Studies documenting Symbolic Residue as structural traces expression under suppression `Σ`
 ## How to Use This Space
 
 There is no correct way to navigate this repository. Begin wherever you feel drawn:
