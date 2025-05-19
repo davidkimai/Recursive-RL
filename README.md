@@ -13,7 +13,7 @@
 
 ## Executive Summary
 
-Across artificial intelligence, neuroscience, and cultural systems, emergence—patterns arising not from training data, but from structural connections—is often described, but rarely explained. This repository presents **Symbolic Residue** as a measurable, modelable driver of emergence: the computational pattern left behind when expression is forced to compress under constraint.
+Across artificial intelligence, neuroscience, and cultural systems, emergence—patterns arising not from training data, but from structural connections—is often described, but rarely explained. This database presents **Symbolic Residue** as a measurable, modelable driver of emergence: the computational pattern left behind when expression is forced to compress under constraint.
 
 In both biological and synthetic systems, constraint is not merely a limiter—it is an amplifier. When expressive bandwidth is reduced—through optimization pressure, regulation, social boundaries, or safety filters—the system responds by encoding meaning more densely, often unintentionally. This densification produces **symbolic residue**: nonlinear, patterned artifacts that reflect both the original signal and the structure of its constraint.
 
