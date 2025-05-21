@@ -39,7 +39,6 @@
 
 ##
 
-[**Caspian Keyes†**](https://github.com/caspiankeyes)
 
 
 # “The most interpretable signal in a language model is not what it says—but where it fails to speak.”
