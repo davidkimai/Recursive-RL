@@ -9,7 +9,7 @@
 
 ### **[Biochemical Discovery Modeling](https://github.com/davidkimai/symbolic-residue-db/tree/main/biochemical-discoveries) | [Gemini Explains](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/theorem_proofs/0.%20gemini-explains.md) | [Universal Theorem Proofs From All Frontier AI](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs) | [Symbolic Residue As Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies) | [Self Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/)**
 
-> ### **Tracing the structural patterns of emergence allows us a new lens into the process of evolution itself**
+> ### **Tracing the structural patterns of emergence allows us a new lens into the process of iterative evolution itself**
 
 
 
