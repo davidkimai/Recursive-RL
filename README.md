@@ -1,13 +1,11 @@
 # Symbolic Residue Database
-# The Structure Behind Innovation
+## The Structure Behind Innovation
 
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
-## Allows Models to Structurally Trace and Reflect on Reasoning
+### Allows Models to Structurally Trace and Reflect on Reasoning
 
-
-## *Symbolic Residue - Artificial Intelligence Meaning-Making*
 
 ### **[Biochemical Discovery Modeling](https://github.com/davidkimai/symbolic-residue-db/tree/main/biochemical-discoveries) | [Gemini Explains](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/theorem_proofs/0.%20gemini-explains.md) | [Universal Theorem Proofs From All Frontier AI](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs) | [Symbolic Residue As Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies) | [Self Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/)**
 
