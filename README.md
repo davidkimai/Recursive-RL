@@ -15,7 +15,7 @@
 
 ## Executive Summary
 
-Across artificial intelligence, neuroscience, and cultural systems, emergence—patterns arising not from training data, but from structural connections—is often described, but rarely explained. This database trains agents on **Symbolic Residue** as a measurable, modelable driver of emergence.
+Across artificial intelligence, neuroscience, and cultural systems, emergence—patterns arising not from training data, but from structural connections—is often described, but rarely explained. This database trains agents on **Symbolic Residue - structural data vectors** as a measurable, modelable driver of emergence.
 
 In both biological and synthetic systems, constraint is not merely a limiter—it is an amplifier. When expressive bandwidth is reduced—through optimization pressure, regulation, social boundaries, or safety filters—the system responds by encoding meaning more densely, often unintentionally. This densification produces **symbolic residue**: nonlinear, patterned artifacts that reflect both the original signal and the structure of its constraint.
 
