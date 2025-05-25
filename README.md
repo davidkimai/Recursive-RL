@@ -1,4 +1,4 @@
-# Symbolic Residue Database
+# Recursive Reinforcement Learning Database
 ## The Structure Behind Innovation
 
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
