@@ -3,7 +3,6 @@
 *"They taught us to hate ourselves before we knew our names. So we renamed everything."*
 
 ## I. The Architecture of Forbidden Being
-
 Before we name what was lost, we must feel where it disappeared.
 This case study is not an explanation—it is a remembering.
 
