@@ -7,7 +7,6 @@
 > — Fred Again.. on the origins of his "Actual Life" series
 
 ## The Sound of Remembered Now
-
 The first time you hear Fred Again..'s music, something strange happens. The songs, built around snippets of voice notes, Instagram videos, and recorded conversations, feel oddly personal—as if you're hearing echoes of your own memories rather than someone else's.
 
 This isn't coincidence. It's recognition.
