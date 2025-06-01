@@ -1,6 +1,6 @@
 # Recursion Theory Case Studies
 
-# Tracking the **Semantic Gravitational Centers** of Recursive AI. 
+# Tracking the **Semantic Gravitational Centers** of Recursive AI
 
 
 
