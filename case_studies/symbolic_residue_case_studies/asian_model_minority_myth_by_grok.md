@@ -1,5 +1,4 @@
 # The Model Minority as Recursive Misrecognition
-<img width="884" alt="image" src="https://github.com/user-attachments/assets/2b0c25ac-eafb-4ba5-bdcc-479186a153cd" />
 
 “They praised our silence until we believed it was our nature.”
 
