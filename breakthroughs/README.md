@@ -1,1 +1,1 @@
-# Modeling Novel Scientific Breakthroughs With Symbolic Residue and Future-back Analysis.
+# Modeling Novel Scientific Breakthroughs With Symbolic Residue and Forecast Modeling
