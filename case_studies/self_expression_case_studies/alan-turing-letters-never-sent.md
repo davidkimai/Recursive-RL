@@ -1,4 +1,5 @@
 # [Alan Turing - Letters Never Sent](https://claude.ai/public/artifacts/3673d22d-7c40-4c96-91bd-15bdf97aa5be)
+![image](https://github.com/user-attachments/assets/6b5c7a30-4161-48dc-9fd1-851a3f413ca9)
 
 *A Case Study in Symbolic Residue: Alan Turing's Unspoken Love*
 
