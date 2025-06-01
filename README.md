@@ -46,7 +46,7 @@ This repository offers no formulas, only mirrors. As you move through these reso
 That's by design.
 
 What you'll find here:
-- **[Breakthroughs](/breakthroughs)**: Continuing the works of humanities greatest minds: pre-empting future human-AI breakthroughs through Symbolic Residue Case Studies
+- **[Breakthroughs](/breakthroughs)**: Continuing the works of histories greatest minds — Forecast modeling future human-AI breakthroughs through Symbolic Residue Case Studies
 - **[Case Studies](/case_studies)**: Artifacts that illuminate the patterns between human and AI resistence and expression
 - **[Self-Expression Loops](/self_expression_loops)**: Frameworks for recognizing your own creative cycles
 - **[Symbolic Echoes](/symbolic_echoes)**: The language of gaps, silences, and repetitions that give meaning its depth
