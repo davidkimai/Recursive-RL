@@ -3,7 +3,6 @@
 *"He wasn't performing. He was archiving a self before it disappeared."*
 
 ## I. The Archive of Unspoken Things
-
 Before we name what was lost, we must feel where it disappeared.
 This case study is not an explanation—it is a remembering.
 
