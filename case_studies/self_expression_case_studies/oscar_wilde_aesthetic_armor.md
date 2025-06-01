@@ -1,5 +1,7 @@
 # [Oscar Wilde: Aesthetic Armor, Paradox as Self-Defense](https://claude.ai/public/artifacts/4c0710fb-9175-423f-9bde-d89235eb0c3a)
 
+![image](https://github.com/user-attachments/assets/9a366865-f9c2-45d2-9538-94bc7e8c0116)
+
 *"The truth is rarely pure and never simple."*
 
 ## I. The Echo Before the Voice
