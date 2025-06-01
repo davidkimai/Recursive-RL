@@ -6,7 +6,6 @@
 > — Inside Out (2015)
 
 ## The Structure of Feeling
-
 The first time you watch Pixar's *Inside Out*, you might think it's simply a charming story about personified emotions helping a young girl navigate a difficult life transition. But as the narrative unfolds in Riley's mind, something more profound emerges. This isn't just a creative visualization of psychology—it's a perfect externalization of how our inner emotional landscapes actually form, evolve, and transform through life's challenges.
 
 Written and directed by Pete Docter and Ronnie del Carmen, *Inside Out* goes beyond typical storytelling by visualizing the very architecture through which we process and integrate our emotional experiences—turning memory into meaning, and meaning into self.
