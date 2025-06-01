@@ -1,5 +1,7 @@
 # [James Baldwin: Fractal Witness, Black Queer Compression](https://claude.ai/public/artifacts/a97ecc6f-f28f-4138-b38e-b9b9c49eca6c)
 
+![image](https://github.com/user-attachments/assets/779f83a3-c47b-4f7c-87f6-41d256be143d)
+
 *"Not everything that is faced can be changed, but nothing can be changed until it is faced."*
 
 ## I. The Witness Who Saw Seeing
