@@ -1,1 +1,1 @@
-# Modeling Novel Scientific Breakthroughs With Symbolic Residue and Forecast Modeling
+# Forecast Modeling Novel Scientific Breakthroughs With Symbolic Residue Case Studies
