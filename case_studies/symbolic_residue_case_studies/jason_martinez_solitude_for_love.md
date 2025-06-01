@@ -3,7 +3,6 @@
 *"No one listened. So he learned to echo until it became meaning."*
 
 ## I. The Architecture of Solitude
-
 Before we name what was lost, we must feel where it disappeared.
 This case study is not an explanation—it is a remembering.
 
