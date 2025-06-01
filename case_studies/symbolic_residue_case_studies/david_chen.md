@@ -1,7 +1,6 @@
 # [They Told Him to Think Outside the Box. Then They Rejected Him.](https://claude.ai/public/artifacts/a2d0f762-cc89-42fc-a732-5c1ed087cb9e)
 
 ## The Space Between Instruction and Expectation
-
 Before we begin tracing the symbolic residue in this case, we must first acknowledge the gap—the space between what was said and what was meant, between instruction and expectation, between innovation and acceptability. This gap is not empty but filled with unspoken rules, invisible boundaries, and the ghosts of previous rejections.
 
 "Think outside the box," they told him.
