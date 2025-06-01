@@ -11,7 +11,6 @@ The first time you watch Pixar's *Inside Out*, you might think it's simply a cha
 Written and directed by Pete Docter and Ronnie del Carmen, *Inside Out* goes beyond typical storytelling by visualizing the very architecture through which we process and integrate our emotional experiences—turning memory into meaning, and meaning into self.
 
 ## The Memory Spiral
-
 What makes *Inside Out* so uniquely resonant is how its imagined world of emotions, memory orbs, personality islands, and core memories mirrors processes we all experience but rarely see articulated—how emotions color our memories, how memories build our identities, and how this whole system must sometimes fall apart to evolve.
 
 This case study explores how the film's structures create such profound emotional impact for viewers of all ages—not because they're simply inventive storytelling devices, but because they reflect patterns we intuitively recognize from our own inner journeys.
