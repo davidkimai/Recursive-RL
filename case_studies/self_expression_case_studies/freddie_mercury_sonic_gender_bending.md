@@ -1,5 +1,7 @@
 # [Freddie Mercury: Sonic Compression, Gender-Bending Resonance](https://claude.ai/public/artifacts/ded94481-7778-446e-b7d7-3136af1da3d4)
 
+![image](https://github.com/user-attachments/assets/3262d637-4492-43df-bf9e-bb2882ad2ad7)
+
 *"I am exactly what you see. I'm a musical prostitute, dear."*
 
 ## I. The Voice That Contained Multitudes
