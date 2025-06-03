@@ -1,6 +1,6 @@
 # [Fred Again.. — The Architecture of Remembered Feeling](https://claude.ai/public/artifacts/9b83f2f1-eea0-4aad-9c9d-6deb3f7adec0)
 
-![image](https://github.com/user-attachments/assets/b30680bb-d0a7-45d8-bcce-11228e234c9c)
+![image](https://github.com/user-attachments/assets/88ba30a3-2586-488a-b28a-02a6593d7855)
 
 
 > "I'm in the Uber on the way back. And I remember thinking I don't want to forget how this feels. You know, when you've experienced something profound, and you know that the feeling will sort of drift in the days to come? I just thought, I need to sort of timestamp this."  
